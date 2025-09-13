@@ -1,16 +1,8 @@
 import AppBar from '@mui/material/AppBar';
 import Box from '@mui/material/Box';
 import Toolbar from '@mui/material/Toolbar';
-import Typography from '@mui/material/Typography';
-import Button from '@mui/material/Button';
-import IconButton from '@mui/material/IconButton';
-import MenuIcon from '@mui/icons-material/Menu';
-import Cart from './../../pages/cart/Cart';
-import Login from './../../pages/login/Login';
-import Register from './../../pages/register/Register';
 import { Link } from '@mui/material';
 import { Link as RouterLink} from "react-router-dom";
-import Home from './../../pages/home/Home';
 
 
 
